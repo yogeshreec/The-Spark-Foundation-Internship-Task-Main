@@ -5,7 +5,8 @@ Internship Category - Data Science and Business Analytics Internship Duration - 
 
 Task 1:
 
-Prediction using Supervised ML ● Predict the percentage of a student based on the no. of study hours.
+Prediction using Supervised ML
+● Predict the percentage of a student based on the no. of study hours.
 
 ● What will be the predicted score if a student studies for 9.25 hrs/ day?
 
@@ -19,7 +20,8 @@ Prediction using Unsupervised ML
 
 Task 3:
 
-Exploratory Data Analysis ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+Exploratory Data Analysis
+● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
 ● As a business manager, try to find out the weak areas where you can work to make more profit.
 
